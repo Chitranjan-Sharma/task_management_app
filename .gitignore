@@ -6,18 +6,21 @@
 .DS_Store
 .atom/
 .build/
-.lib/core/utils/firebase_const.dart
+
 .buildlog/
 .history
 .svn/
 .swiftpm/
 migrate_working_dir/
 
+
+
 # IntelliJ related
 *.iml
 *.ipr
 *.iws
 .idea/
+
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -33,6 +36,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+
+lib/core/utils/firebase_const.dart
 
 # Symbolication related
 app.*.symbols
