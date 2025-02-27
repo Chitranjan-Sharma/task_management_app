@@ -2,16 +2,19 @@
 
 # A new Flutter project for Task Management.
 
-<div>
-<img src="screenshots/login.png" >
-<img src="screenshots/signup.png" >
- <br/>
-<img src="screenshots/home.png" >
-<img src="screenshots/details.png" > 
-<br/>
-<img src="screenshots/update.png" >
-<img src="screenshots/search.png" >
- <br/>
-<img src="screenshots/loading.png" >
+<div align="center">
+  <img src="screenshots/login.png" width="300px">
+ 
+  <img src="screenshots/signup.png" width="300px">
+
+  <img src="screenshots/home.png" width="300px">
+  
+  <img src="screenshots/details.png" width="300px"> 
+  
+  <img src="screenshots/update.png" width="300px">
+  
+  <img src="screenshots/search.png" width="300px">
+  
+  <img src="screenshots/loading.png" width="300px">
 
 </div>
