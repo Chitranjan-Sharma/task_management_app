@@ -9,8 +9,6 @@ class FirebaseInit {
                 appId: FirebaseConst().APP_ID,
                 messagingSenderId: FirebaseConst().SENDER_ID,
                 projectId: FirebaseConst().PROJECT_ID))
-        .then((onValue) {
-      
-    });
+        .then((onValue) {});
   }
 }
